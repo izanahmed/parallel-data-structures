@@ -2,4 +2,4 @@
 
 Thread-Safe Queue, Stack and Hashtable implementation with testing. 
 
-We used the google testing framework.
+We used the Google C++ Testing Framework.
